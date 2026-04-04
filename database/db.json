@@ -59,7 +59,21 @@
       "reportCount": 0
     }
   },
-  "buyerRequests": {},
+  "buyerRequests": {
+    "1775339189877": {
+      "id": "1775339189877",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "role": "mood",
+      "buyerUsername": "Expenz",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAIBMmnReqtDrqxvrinzCm77THqBOHcmAALSE2sbwrqQVlGktTD5CfACAQADAgADeQADOwQ",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-04T21:46:30.133Z",
+      "updatedAt": "2026-04-04T21:46:30.133Z"
+    }
+  },
   "buyerInvites": {},
   "reports": [],
   "roleCatalog": {
@@ -156,7 +170,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T21:46:29.057Z",
+    "updatedAt": "2026-04-04T21:46:30.133Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
