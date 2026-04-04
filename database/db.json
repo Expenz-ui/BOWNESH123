@@ -8,9 +8,9 @@
       "createdAt": "2026-04-04T21:19:47.404Z",
       "role": "owner",
       "tokenQuota": 8,
-      "tokensUsed": 3,
-      "tokensAvailable": 5,
-      "updatedAt": "2026-04-04T21:38:36.672Z"
+      "tokensUsed": 4,
+      "tokensAvailable": 4,
+      "updatedAt": "2026-04-04T21:38:37.467Z"
     }
   },
   "botTokens": {
@@ -45,6 +45,17 @@
       "status": "active",
       "createdAt": "2026-04-04T21:37:26.137Z",
       "updatedAt": "2026-04-04T21:37:26.137Z",
+      "reportCount": 0
+    },
+    "tok_1775338717467_hx90i2": {
+      "id": "tok_1775338717467_hx90i2",
+      "token": "@Lenzzzstore",
+      "ownerId": 7082935586,
+      "ownerUsername": "Expenz",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-04-04T21:38:37.467Z",
+      "updatedAt": "2026-04-04T21:38:37.467Z",
       "reportCount": 0
     }
   },
@@ -145,7 +156,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T21:38:36.672Z",
+    "updatedAt": "2026-04-04T21:38:37.467Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
