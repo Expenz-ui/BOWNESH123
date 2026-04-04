@@ -22,7 +22,7 @@
       "tokensUsed": 0,
       "tokensAvailable": 0,
       "createdAt": "2026-04-04T22:01:07.424Z",
-      "updatedAt": "2026-04-04T22:01:17.977Z"
+      "updatedAt": "2026-04-04T22:01:50.703Z"
     }
   },
   "botTokens": {
@@ -184,7 +184,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T22:01:32.194Z",
+    "updatedAt": "2026-04-04T22:01:50.703Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
