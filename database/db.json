@@ -221,14 +221,105 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-04T23:03:28.115Z",
-      "updatedAt": "2026-04-04T23:03:36.966Z",
+      "updatedAt": "2026-04-04T23:03:39.405Z",
       "approvedBy": 7082935586,
       "approvedByUsername": "Expenz",
       "finalPeriod": "permanent",
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "tk",
+          "groupName": "FULLUP - Full Up",
+          "chatId": -1003701811526,
+          "inviteLink": "https://t.me/+hsBr4xeMTco2OWFl",
+          "status": "active",
+          "createdAt": "2026-04-04T23:03:38.093Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "RESELLER - Reseller",
+          "chatId": -1003701811526,
+          "inviteLink": "https://t.me/+tGwAfBDeDlZhYTY1",
+          "status": "active",
+          "createdAt": "2026-04-04T23:03:38.434Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "PT - Partner",
+          "chatId": -1003701811526,
+          "inviteLink": "https://t.me/+ot5i6ga_LvE3NTFl",
+          "status": "active",
+          "createdAt": "2026-04-04T23:03:38.796Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "TK - Tangan Kanan",
+          "chatId": -1003701811526,
+          "inviteLink": "https://t.me/+HQbgJ4OVOiA5YWM1",
+          "status": "active",
+          "createdAt": "2026-04-04T23:03:39.136Z",
+          "expiresAt": null
+        }
+      ]
+    }
+  },
+  "buyerInvites": {
+    "https://t.me/+hsBr4xeMTco2OWFl": {
+      "requestId": "1775343807855",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "buyerUsername": "Lenzzzstore",
+      "role": "tk",
+      "groupName": "FULLUP - Full Up",
+      "chatId": -1003701811526,
+      "inviteLink": "https://t.me/+hsBr4xeMTco2OWFl",
+      "status": "active",
+      "createdAt": "2026-04-04T23:03:38.093Z",
+      "expiresAt": null
+    },
+    "https://t.me/+tGwAfBDeDlZhYTY1": {
+      "requestId": "1775343807855",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "buyerUsername": "Lenzzzstore",
+      "role": "tk",
+      "groupName": "RESELLER - Reseller",
+      "chatId": -1003701811526,
+      "inviteLink": "https://t.me/+tGwAfBDeDlZhYTY1",
+      "status": "active",
+      "createdAt": "2026-04-04T23:03:38.434Z",
+      "expiresAt": null
+    },
+    "https://t.me/+ot5i6ga_LvE3NTFl": {
+      "requestId": "1775343807855",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "buyerUsername": "Lenzzzstore",
+      "role": "tk",
+      "groupName": "PT - Partner",
+      "chatId": -1003701811526,
+      "inviteLink": "https://t.me/+ot5i6ga_LvE3NTFl",
+      "status": "active",
+      "createdAt": "2026-04-04T23:03:38.796Z",
+      "expiresAt": null
+    },
+    "https://t.me/+HQbgJ4OVOiA5YWM1": {
+      "requestId": "1775343807855",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "buyerUsername": "Lenzzzstore",
+      "role": "tk",
+      "groupName": "TK - Tangan Kanan",
+      "chatId": -1003701811526,
+      "inviteLink": "https://t.me/+HQbgJ4OVOiA5YWM1",
+      "status": "active",
+      "createdAt": "2026-04-04T23:03:39.136Z",
       "expiresAt": null
     }
   },
-  "buyerInvites": {},
   "reports": [],
   "roleCatalog": {
     "full_up": {
@@ -324,7 +415,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T23:03:36.966Z",
+    "updatedAt": "2026-04-04T23:03:39.405Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
