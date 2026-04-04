@@ -192,6 +192,19 @@
       "approvedByUsername": "Expenz",
       "finalPeriod": "permanent",
       "expiresAt": null
+    },
+    "1775343471893": {
+      "id": "1775343471893",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "role": "tk",
+      "buyerUsername": "Lenzzzstore",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAIBMmnReqtDrqxvrinzCm77THqBOHcmAALSE2sbwrqQVlGktTD5CfACAQADAgADeQADOwQ",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-04T22:57:52.152Z",
+      "updatedAt": "2026-04-04T22:57:52.152Z"
     }
   },
   "buyerInvites": {},
@@ -290,7 +303,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T22:57:50.776Z",
+    "updatedAt": "2026-04-04T22:57:52.152Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
