@@ -109,6 +109,19 @@
       "updatedAt": "2026-04-04T21:47:01.800Z",
       "rejectedBy": 7082935586,
       "rejectedByUsername": "Expenz"
+    },
+    "1775342557573": {
+      "id": "1775342557573",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "role": "tk",
+      "buyerUsername": "Expenz",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAIBMmnReqtDrqxvrinzCm77THqBOHcmAALSE2sbwrqQVlGktTD5CfACAQADAgADeQADOwQ",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-04T22:42:37.827Z",
+      "updatedAt": "2026-04-04T22:42:37.827Z"
     }
   },
   "buyerInvites": {},
@@ -207,7 +220,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T22:42:36.752Z",
+    "updatedAt": "2026-04-04T22:42:37.827Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
