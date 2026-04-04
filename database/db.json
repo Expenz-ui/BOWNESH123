@@ -11,6 +11,18 @@
       "tokensUsed": 4,
       "tokensAvailable": 4,
       "updatedAt": "2026-04-04T22:01:05.543Z"
+    },
+    "6757343842": {
+      "id": 6757343842,
+      "firstName": "Jelly•𝕹𝕰𝖃𝕾𝖀𝕾",
+      "lastName": "",
+      "username": "jellymd",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-04T22:01:07.424Z",
+      "updatedAt": "2026-04-04T22:01:07.424Z"
     }
   },
   "botTokens": {
@@ -172,7 +184,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T22:01:05.543Z",
+    "updatedAt": "2026-04-04T22:01:07.424Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
