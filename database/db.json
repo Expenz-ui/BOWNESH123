@@ -2,7 +2,7 @@
   "users": {
     "7082935586": {
       "id": 7082935586,
-      "firstName": "⌥𝐃𝐙 /<𝙀́𝙭𝙥𝙚𝙣̃𝙄𝙨𝙃𝙚𝙧𝙚>♞ [ 𝚂𝙸𝙱𝚄𝙺 𝙱𝚄𝙰𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝙰𝙿𝙺 ]",
+      "firstName": "⌥𝐃𝐙 /<𝙀́𝙭𝙥𝙚𝙣̃𝙄𝙨𝙃𝙚𝙧𝙚>♞ [ 𝚂𝙸𝙱𝚄𝙺 𝙱𝚄𝙰𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝚂𝙲 ]",
       "lastName": "",
       "username": "Expenz",
       "createdAt": "2026-04-04T21:19:47.404Z",
@@ -10,7 +10,7 @@
       "tokenQuota": 8,
       "tokensUsed": 4,
       "tokensAvailable": 4,
-      "updatedAt": "2026-04-04T22:32:28.477Z"
+      "updatedAt": "2026-04-04T22:32:43.784Z"
     },
     "6757343842": {
       "id": 6757343842,
@@ -196,7 +196,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-04T22:32:28.478Z",
+    "updatedAt": "2026-04-04T22:32:43.784Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
