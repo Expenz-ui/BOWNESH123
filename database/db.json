@@ -95,6 +95,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-05T03:50:34.436Z",
       "updatedAt": "2026-04-05T03:52:45.880Z"
+    },
+    "8304067189": {
+      "id": 8304067189,
+      "firstName": "⏤͟͟͞͞𝗫𝗫𝗫 || 𝗧͢Ryann'",
+      "lastName": "-`♡´-",
+      "username": "yanbaik",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-05T06:05:37.774Z",
+      "updatedAt": "2026-04-05T06:05:37.775Z"
     }
   },
   "botTokens": {
@@ -475,7 +487,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-05T05:51:15.982Z",
+    "updatedAt": "2026-04-05T06:05:37.775Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
