@@ -119,6 +119,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-05T07:09:55.656Z",
       "updatedAt": "2026-04-05T07:11:17.309Z"
+    },
+    "8482674264": {
+      "id": 8482674264,
+      "firstName": "⏤͟͟͞͞ 𝗘͢𝘁𝗲𝗿𝗻𝗮𝗹 𝟰𝟬𝟰 メ ☇ FARISXC",
+      "lastName": "",
+      "username": "Lowsxc",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-05T07:35:26.748Z",
+      "updatedAt": "2026-04-05T07:35:26.748Z"
     }
   },
   "botTokens": {
@@ -499,7 +511,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-05T07:27:55.624Z",
+    "updatedAt": "2026-04-05T07:35:26.748Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
