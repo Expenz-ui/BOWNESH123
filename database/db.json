@@ -59,6 +59,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-05T02:39:02.547Z",
       "updatedAt": "2026-04-05T02:39:02.548Z"
+    },
+    "8601642537": {
+      "id": 8601642537,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͢𝗹𝗲 𝗫 || ?????あ ⸙",
+      "lastName": "",
+      "username": "mbut_md",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-05T03:06:46.841Z",
+      "updatedAt": "2026-04-05T03:06:46.841Z"
     }
   },
   "botTokens": {
@@ -439,7 +451,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-05T02:49:14.773Z",
+    "updatedAt": "2026-04-05T03:06:46.841Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
