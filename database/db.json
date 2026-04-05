@@ -503,6 +503,19 @@
       "approvedByUsername": "Expenz",
       "finalPeriod": "permanent",
       "expiresAt": null
+    },
+    "1775397499789": {
+      "id": "1775397499789",
+      "requesterId": 7082935586,
+      "requesterUsername": "Expenz",
+      "role": "tk",
+      "buyerUsername": "Expenz",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAICMGnSV46h9Y7vgZqPfPaD66C20GlNAALBEWsbhI-RVkcBcNJ_CVpXAQADAgADeQADOwQ",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-05T13:58:20.672Z",
+      "updatedAt": "2026-04-05T13:58:20.673Z"
     }
   },
   "buyerInvites": {
@@ -654,7 +667,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-05T13:58:18.920Z",
+    "updatedAt": "2026-04-05T13:58:20.673Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
