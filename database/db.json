@@ -131,6 +131,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-05T07:35:26.748Z",
       "updatedAt": "2026-04-05T07:35:26.748Z"
+    },
+    "8020667197": {
+      "id": 8020667197,
+      "firstName": "𝐏𝐫𝐨𝐦𝐨𝐬𝐢",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-05T08:28:18.471Z",
+      "updatedAt": "2026-04-05T08:28:18.472Z"
     }
   },
   "botTokens": {
@@ -511,7 +523,7 @@
   },
   "meta": {
     "createdAt": "2026-04-04T21:19:46.548Z",
-    "updatedAt": "2026-04-05T08:09:26.545Z",
+    "updatedAt": "2026-04-05T08:28:18.472Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/BOWNESH123",
     "dbPath": "database/db.json"
